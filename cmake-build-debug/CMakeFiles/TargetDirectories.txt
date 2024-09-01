@@ -1,0 +1,3 @@
+/Users/xuzhengkai/Desktop/study/Programming-A-sjtu/cmake-build-debug/CMakeFiles/Programming_A_sjtu.dir
+/Users/xuzhengkai/Desktop/study/Programming-A-sjtu/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xuzhengkai/Desktop/study/Programming-A-sjtu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
